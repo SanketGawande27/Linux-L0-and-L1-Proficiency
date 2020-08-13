@@ -1,0 +1,11 @@
+Rollno	Name	Percentage	Grade	Class
+1	Sanket	75.88		B	10th
+2	Nikhil	80.22		B	10th
+3	Akash	90.55		A	12th
+4	Swapnil	95.00	A+	12th	
+5	Akshay	65.44		C	12th
+6	Karan	70		B	10th
+7	Arjun	80.01		B	10th
+8	Pawan	66		C	12th
+9	Ratandip	85.58	B	10th
+10	Ajay	93.33		A	10th
