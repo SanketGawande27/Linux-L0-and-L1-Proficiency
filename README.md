@@ -8,6 +8,9 @@
       2. Accept roll number from the user at the command line. Search it in the “student” file. If it is present, then display the name, percentage,
       grade and class of the student. If the roll number is not present, then display a message “not found”. Allow the user to enter any number of queries.
       The above Assign2.sh I wrote an shell script program to run this problem statement.
+      
+      3. I wrote a shell script which will accept three nos. from the keyboard and finds the largest of them.
+
  
 
 
