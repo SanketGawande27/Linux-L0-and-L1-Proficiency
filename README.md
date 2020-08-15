@@ -12,6 +12,8 @@
       The above Assign2.sh I wrote an shell script program to run this problem statement.
       
       3. I wrote a shell script which will accept three nos. from the keyboard and finds the largest of them.
+      
+      4. I wrote a shell script that will accept a file to copy the contents to temp.txt another file.
 
  
 
