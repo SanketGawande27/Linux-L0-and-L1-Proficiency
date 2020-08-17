@@ -14,6 +14,8 @@
       3. I wrote a shell script which will accept three nos. from the keyboard and finds the largest of them.
       
       4. I wrote a shell script that will accept a file to copy the contents to temp.txt another file.
+      
+      6. I wrote a script which when executed checks out whether it is a working day or not?
 
  
 
